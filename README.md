@@ -1,4 +1,4 @@
-###  :man_technologist:  [WangNingkai](https://wangningkai.github.io)
+###  :man_technologist:  [James Smith](https://wangningkai.github.io)
 
 👋 Hi, I'm James Smith,a passionate self-taught backend developer from America 🚀. 
 
