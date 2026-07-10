@@ -1,6 +1,6 @@
 ###  :man_technologist:  [James Smith](https://wangningkai.github.io)
 
-👋 Hi, I'm James Smith,a passionate self-taught backend developer from America 🚀. 
+👋 Hi, I'm Sasaki,a passionate self-taught full stack enginer from Japan 🚀. 
 
 [![WangNingkai's github stats](https://github-readme-stats.vercel.app/api?username=wangningkai&count_private=true&show_icons=true&theme=radical)](https://github.com/WangNingkai)
 
