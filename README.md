@@ -1,4 +1,4 @@
-###  :man_technologist:  [James Smith](https://wangningkai.github.io)
+###  :man_technologist:  [Sasaki](https://wangningkai.github.io)
 
 👋 Hi, I'm Sasaki,a passionate self-taught full stack enginer from Japan 🚀. 
 
